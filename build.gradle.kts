@@ -23,6 +23,10 @@ dependencies {
     implementation("org.jetbrains:annotations:26.1.0")
 }
 
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(25)
+}
+
 tasks.test {
     useJUnitPlatform()
 }
