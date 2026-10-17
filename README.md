@@ -76,6 +76,9 @@ warning[lint:UNKNOWN]: unknown key `name`
 - Change severity of errors using config file
 - Changing renderers
 
+## You can use ANSI renderer that makes the messages really pretty
+![console](./assets/console.png)
+
 ## Why
 
 I really hate how minecraft plugins handle configs.
