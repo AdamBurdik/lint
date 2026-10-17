@@ -1,0 +1,9 @@
+severity:
+  lint:
+    expected_plain_value: error
+    missing_required: error
+    unknown: warning
+    wrong_value_type: error
+    defined_twice: error
+    must_be_mapping: error
+    invalid_yml: error
