@@ -1,5 +1,7 @@
 # Lint
 
+[![](https://jitpack.io/v/AdamBurdik/lint.svg)](https://jitpack.io/#AdamBurdik/lint)
+
 Simple library to parse and validate yml configuration files
 
 ## Example
